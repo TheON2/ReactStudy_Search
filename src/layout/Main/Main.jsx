@@ -14,7 +14,7 @@ import {useDispatch, useSelector} from "react-redux";
 import {changeCategory, searchResult} from "../../redux/reducers/searchSlice";
 
 const keyArr =[
-  '감자탕','감자국','감자그라탕','감자찌개','눈을감자','사감자리'
+  '감자탕','감자국','감자그라탕','감자찌개','눈을감자','사감자리','피자','팔자피자','병역기피자'
 ]
 //검색어를 포함하는 문자열
 
